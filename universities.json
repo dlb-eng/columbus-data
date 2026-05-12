@@ -1443,5 +1443,804 @@
     "housing": {
       "oncampus": 580
     }
+  },
+  "ETH Zurich": {
+    "currency": "CHF",
+    "city": "Zurich",
+    "tuition": {
+      "domestic": 60,
+      "outstate": 60,
+      "intl": 60
+    },
+    "fees": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 30
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "EPFL": {
+    "currency": "CHF",
+    "city": "Lausanne",
+    "tuition": {
+      "domestic": 60,
+      "outstate": 60,
+      "intl": 60
+    },
+    "fees": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 30
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "University of Zurich": {
+    "currency": "CHF",
+    "city": "Zurich",
+    "tuition": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 55
+    },
+    "fees": {
+      "domestic": 25,
+      "outstate": 25,
+      "intl": 25
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "University of Geneva": {
+    "currency": "CHF",
+    "city": "Geneva",
+    "tuition": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 50
+    },
+    "fees": {
+      "domestic": 25,
+      "outstate": 25,
+      "intl": 25
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Basel": {
+    "currency": "CHF",
+    "city": "Basel",
+    "tuition": {
+      "domestic": 45,
+      "outstate": 45,
+      "intl": 45
+    },
+    "fees": {
+      "domestic": 20,
+      "outstate": 20,
+      "intl": 20
+    },
+    "housing": {
+      "oncampus": 1100
+    }
+  },
+  "University of Bern": {
+    "currency": "CHF",
+    "city": "Bern",
+    "tuition": {
+      "domestic": 45,
+      "outstate": 45,
+      "intl": 45
+    },
+    "fees": {
+      "domestic": 20,
+      "outstate": 20,
+      "intl": 20
+    },
+    "housing": {
+      "oncampus": 1100
+    }
+  },
+  "University of Lausanne": {
+    "currency": "CHF",
+    "city": "Lausanne",
+    "tuition": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 50
+    },
+    "fees": {
+      "domestic": 25,
+      "outstate": 25,
+      "intl": 25
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "University of St. Gallen (HSG)": {
+    "currency": "CHF",
+    "city": "St. Gallen",
+    "tuition": {
+      "domestic": 70,
+      "outstate": 70,
+      "intl": 70
+    },
+    "fees": {
+      "domestic": 35,
+      "outstate": 35,
+      "intl": 35
+    },
+    "housing": {
+      "oncampus": 1000
+    }
+  },
+  "IMD Business School": {
+    "currency": "CHF",
+    "city": "Lausanne",
+    "tuition": {
+      "domestic": 6000,
+      "outstate": 6000,
+      "intl": 6000
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1800
+    }
+  },
+  "Graduate Institute Geneva": {
+    "currency": "CHF",
+    "city": "Geneva",
+    "tuition": {
+      "domestic": 500,
+      "outstate": 500,
+      "intl": 500
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "American University in Dubai": {
+    "currency": "AED",
+    "city": "Dubai",
+    "tuition": {
+      "domestic": 5500,
+      "outstate": 5500,
+      "intl": 5500
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 3500
+    }
+  },
+  "Murdoch University Dubai": {
+    "currency": "AED",
+    "city": "Dubai",
+    "tuition": {
+      "domestic": 4500,
+      "outstate": 4500,
+      "intl": 4500
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 3000
+    }
+  },
+  "Middlesex University Dubai": {
+    "currency": "AED",
+    "city": "Dubai",
+    "tuition": {
+      "domestic": 4200,
+      "outstate": 4200,
+      "intl": 4200
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 3000
+    }
+  },
+  "Heriot-Watt University Dubai": {
+    "currency": "AED",
+    "city": "Dubai",
+    "tuition": {
+      "domestic": 4800,
+      "outstate": 4800,
+      "intl": 4800
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 180
+    },
+    "housing": {
+      "oncampus": 3200
+    }
+  },
+  "NYU Abu Dhabi": {
+    "currency": "AED",
+    "city": "Abu Dhabi",
+    "tuition": {
+      "domestic": 5800,
+      "outstate": 5800,
+      "intl": 5800
+    },
+    "fees": {
+      "domestic": 250,
+      "outstate": 250,
+      "intl": 250
+    },
+    "housing": {
+      "oncampus": 0
+    }
+  },
+  "Khalifa University": {
+    "currency": "AED",
+    "city": "Abu Dhabi",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 3500
+    },
+    "fees": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Qatar University": {
+    "currency": "QAR",
+    "city": "Doha",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 2500
+    },
+    "fees": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 100
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "Georgetown University Qatar": {
+    "currency": "QAR",
+    "city": "Doha",
+    "tuition": {
+      "domestic": 5500,
+      "outstate": 5500,
+      "intl": 5500
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Northwestern University Qatar": {
+    "currency": "QAR",
+    "city": "Doha",
+    "tuition": {
+      "domestic": 5500,
+      "outstate": 5500,
+      "intl": 5500
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Carnegie Mellon University Qatar": {
+    "currency": "QAR",
+    "city": "Doha",
+    "tuition": {
+      "domestic": 5800,
+      "outstate": 5800,
+      "intl": 5800
+    },
+    "fees": {
+      "domestic": 220,
+      "outstate": 220,
+      "intl": 220
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Texas A&M Qatar": {
+    "currency": "QAR",
+    "city": "Doha",
+    "tuition": {
+      "domestic": 4500,
+      "outstate": 4500,
+      "intl": 4500
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 180
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "HEC Paris Qatar": {
+    "currency": "QAR",
+    "city": "Doha",
+    "tuition": {
+      "domestic": 7000,
+      "outstate": 7000,
+      "intl": 7000
+    },
+    "fees": {
+      "domestic": 300,
+      "outstate": 300,
+      "intl": 300
+    },
+    "housing": {
+      "oncampus": 2500
+    }
+  },
+  "King Saud University": {
+    "currency": "SAR",
+    "city": "Riyadh",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 1500
+    },
+    "fees": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 100
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "King Abdulaziz University": {
+    "currency": "SAR",
+    "city": "Jeddah",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 1500
+    },
+    "fees": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 100
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "King Fahd University of Petroleum and Minerals (KFUPM)": {
+    "currency": "SAR",
+    "city": "Dhahran",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 2000
+    },
+    "fees": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 120
+    },
+    "housing": {
+      "oncampus": 1000
+    }
+  },
+  "KAUST - King Abdullah University of Science and Technology": {
+    "currency": "SAR",
+    "city": "Thuwal",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "housing": {
+      "oncampus": 0
+    }
+  },
+  "Al-Faisal University": {
+    "currency": "SAR",
+    "city": "Riyadh",
+    "tuition": {
+      "domestic": 2500,
+      "outstate": 2500,
+      "intl": 3500
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "University of Tokyo": {
+    "currency": "JPY",
+    "city": "Tokyo",
+    "tuition": {
+      "domestic": 45000,
+      "outstate": 45000,
+      "intl": 45000
+    },
+    "fees": {
+      "domestic": 3000,
+      "outstate": 3000,
+      "intl": 3000
+    },
+    "housing": {
+      "oncampus": 30000
+    }
+  },
+  "Keio University": {
+    "currency": "JPY",
+    "city": "Tokyo",
+    "tuition": {
+      "domestic": 80000,
+      "outstate": 80000,
+      "intl": 80000
+    },
+    "fees": {
+      "domestic": 5000,
+      "outstate": 5000,
+      "intl": 5000
+    },
+    "housing": {
+      "oncampus": 50000
+    }
+  },
+  "Waseda University": {
+    "currency": "JPY",
+    "city": "Tokyo",
+    "tuition": {
+      "domestic": 90000,
+      "outstate": 90000,
+      "intl": 90000
+    },
+    "fees": {
+      "domestic": 5000,
+      "outstate": 5000,
+      "intl": 5000
+    },
+    "housing": {
+      "oncampus": 50000
+    }
+  },
+  "Tokyo Institute of Technology": {
+    "currency": "JPY",
+    "city": "Tokyo",
+    "tuition": {
+      "domestic": 45000,
+      "outstate": 45000,
+      "intl": 45000
+    },
+    "fees": {
+      "domestic": 3000,
+      "outstate": 3000,
+      "intl": 3000
+    },
+    "housing": {
+      "oncampus": 30000
+    }
+  },
+  "Sophia University": {
+    "currency": "JPY",
+    "city": "Tokyo",
+    "tuition": {
+      "domestic": 85000,
+      "outstate": 85000,
+      "intl": 85000
+    },
+    "fees": {
+      "domestic": 5000,
+      "outstate": 5000,
+      "intl": 5000
+    },
+    "housing": {
+      "oncampus": 50000
+    }
+  },
+  "Osaka University": {
+    "currency": "JPY",
+    "city": "Osaka",
+    "tuition": {
+      "domestic": 45000,
+      "outstate": 45000,
+      "intl": 45000
+    },
+    "fees": {
+      "domestic": 3000,
+      "outstate": 3000,
+      "intl": 3000
+    },
+    "housing": {
+      "oncampus": 28000
+    }
+  },
+  "Kyoto University": {
+    "currency": "JPY",
+    "city": "Kyoto",
+    "tuition": {
+      "domestic": 45000,
+      "outstate": 45000,
+      "intl": 45000
+    },
+    "fees": {
+      "domestic": 3000,
+      "outstate": 3000,
+      "intl": 3000
+    },
+    "housing": {
+      "oncampus": 25000
+    }
+  },
+  "Tohoku University": {
+    "currency": "JPY",
+    "city": "Sendai",
+    "tuition": {
+      "domestic": 45000,
+      "outstate": 45000,
+      "intl": 45000
+    },
+    "fees": {
+      "domestic": 3000,
+      "outstate": 3000,
+      "intl": 3000
+    },
+    "housing": {
+      "oncampus": 22000
+    }
+  },
+  "Nagoya University": {
+    "currency": "JPY",
+    "city": "Nagoya",
+    "tuition": {
+      "domestic": 45000,
+      "outstate": 45000,
+      "intl": 45000
+    },
+    "fees": {
+      "domestic": 3000,
+      "outstate": 3000,
+      "intl": 3000
+    },
+    "housing": {
+      "oncampus": 22000
+    }
+  },
+  "National University of Singapore (NUS)": {
+    "currency": "SGD",
+    "city": "Singapore",
+    "tuition": {
+      "domestic": 2200,
+      "outstate": 2200,
+      "intl": 3800
+    },
+    "fees": {
+      "domestic": 100,
+      "outstate": 100,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 800
+    }
+  },
+  "Nanyang Technological University (NTU)": {
+    "currency": "SGD",
+    "city": "Singapore",
+    "tuition": {
+      "domestic": 2200,
+      "outstate": 2200,
+      "intl": 3800
+    },
+    "fees": {
+      "domestic": 100,
+      "outstate": 100,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 750
+    }
+  },
+  "Singapore Management University (SMU)": {
+    "currency": "SGD",
+    "city": "Singapore",
+    "tuition": {
+      "domestic": 2800,
+      "outstate": 2800,
+      "intl": 4200
+    },
+    "fees": {
+      "domestic": 120,
+      "outstate": 120,
+      "intl": 180
+    },
+    "housing": {
+      "oncampus": 900
+    }
+  },
+  "Singapore University of Technology and Design (SUTD)": {
+    "currency": "SGD",
+    "city": "Singapore",
+    "tuition": {
+      "domestic": 2200,
+      "outstate": 2200,
+      "intl": 3800
+    },
+    "fees": {
+      "domestic": 100,
+      "outstate": 100,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 750
+    }
+  },
+  "INSEAD Singapore": {
+    "currency": "SGD",
+    "city": "Singapore",
+    "tuition": {
+      "domestic": 7500,
+      "outstate": 7500,
+      "intl": 7500
+    },
+    "fees": {
+      "domestic": 300,
+      "outstate": 300,
+      "intl": 300
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "University of Hong Kong (HKU)": {
+    "currency": "HKD",
+    "city": "Hong Kong",
+    "tuition": {
+      "domestic": 10800,
+      "outstate": 10800,
+      "intl": 14500
+    },
+    "fees": {
+      "domestic": 500,
+      "outstate": 500,
+      "intl": 700
+    },
+    "housing": {
+      "oncampus": 4500
+    }
+  },
+  "Hong Kong University of Science and Technology (HKUST)": {
+    "currency": "HKD",
+    "city": "Hong Kong",
+    "tuition": {
+      "domestic": 10800,
+      "outstate": 10800,
+      "intl": 14500
+    },
+    "fees": {
+      "domestic": 500,
+      "outstate": 500,
+      "intl": 700
+    },
+    "housing": {
+      "oncampus": 4200
+    }
+  },
+  "Chinese University of Hong Kong (CUHK)": {
+    "currency": "HKD",
+    "city": "Hong Kong",
+    "tuition": {
+      "domestic": 10800,
+      "outstate": 10800,
+      "intl": 14500
+    },
+    "fees": {
+      "domestic": 500,
+      "outstate": 500,
+      "intl": 700
+    },
+    "housing": {
+      "oncampus": 4000
+    }
+  },
+  "City University of Hong Kong": {
+    "currency": "HKD",
+    "city": "Hong Kong",
+    "tuition": {
+      "domestic": 10800,
+      "outstate": 10800,
+      "intl": 13500
+    },
+    "fees": {
+      "domestic": 450,
+      "outstate": 450,
+      "intl": 650
+    },
+    "housing": {
+      "oncampus": 4000
+    }
+  },
+  "Hong Kong Polytechnic University": {
+    "currency": "HKD",
+    "city": "Hong Kong",
+    "tuition": {
+      "domestic": 10800,
+      "outstate": 10800,
+      "intl": 13500
+    },
+    "fees": {
+      "domestic": 450,
+      "outstate": 450,
+      "intl": 650
+    },
+    "housing": {
+      "oncampus": 3800
+    }
+  },
+  "Hong Kong Baptist University": {
+    "currency": "HKD",
+    "city": "Hong Kong",
+    "tuition": {
+      "domestic": 10800,
+      "outstate": 10800,
+      "intl": 13000
+    },
+    "fees": {
+      "domestic": 400,
+      "outstate": 400,
+      "intl": 600
+    },
+    "housing": {
+      "oncampus": 3500
+    }
   }
 }
