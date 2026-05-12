@@ -1,0 +1,1447 @@
+{
+  "UCLA": {
+    "currency": "USD",
+    "city": "Los Angeles",
+    "tuition": {
+      "domestic": 1158,
+      "outstate": 3874,
+      "intl": 3874
+    },
+    "fees": {
+      "domestic": 250,
+      "outstate": 250,
+      "intl": 340
+    },
+    "housing": {
+      "oncampus": 2100
+    }
+  },
+  "UC Berkeley": {
+    "currency": "USD",
+    "city": "Berkeley",
+    "tuition": {
+      "domestic": 1158,
+      "outstate": 3874,
+      "intl": 3874
+    },
+    "fees": {
+      "domestic": 280,
+      "outstate": 280,
+      "intl": 360
+    },
+    "housing": {
+      "oncampus": 2200
+    }
+  },
+  "USC": {
+    "currency": "USD",
+    "city": "Los Angeles",
+    "tuition": {
+      "domestic": 4760,
+      "outstate": 4760,
+      "intl": 4760
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 240
+    },
+    "housing": {
+      "oncampus": 2300
+    }
+  },
+  "Stanford University": {
+    "currency": "USD",
+    "city": "Stanford",
+    "tuition": {
+      "domestic": 4700,
+      "outstate": 4700,
+      "intl": 4700
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 280
+    },
+    "housing": {
+      "oncampus": 2400
+    }
+  },
+  "UC San Diego": {
+    "currency": "USD",
+    "city": "San Diego",
+    "tuition": {
+      "domestic": 1158,
+      "outstate": 3874,
+      "intl": 3874
+    },
+    "fees": {
+      "domestic": 260,
+      "outstate": 260,
+      "intl": 340
+    },
+    "housing": {
+      "oncampus": 1900
+    }
+  },
+  "Cal Tech": {
+    "currency": "USD",
+    "city": "Pasadena",
+    "tuition": {
+      "domestic": 4700,
+      "outstate": 4700,
+      "intl": 4700
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 230
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Columbia University": {
+    "currency": "USD",
+    "city": "New York",
+    "tuition": {
+      "domestic": 5000,
+      "outstate": 5000,
+      "intl": 5000
+    },
+    "fees": {
+      "domestic": 220,
+      "outstate": 220,
+      "intl": 320
+    },
+    "housing": {
+      "oncampus": 2500
+    }
+  },
+  "NYU": {
+    "currency": "USD",
+    "city": "New York",
+    "tuition": {
+      "domestic": 4500,
+      "outstate": 4500,
+      "intl": 4500
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 300
+    },
+    "housing": {
+      "oncampus": 2400
+    }
+  },
+  "Cornell University": {
+    "currency": "USD",
+    "city": "Ithaca",
+    "tuition": {
+      "domestic": 4680,
+      "outstate": 4680,
+      "intl": 4680
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 280
+    },
+    "housing": {
+      "oncampus": 1800
+    }
+  },
+  "MIT": {
+    "currency": "USD",
+    "city": "Boston",
+    "tuition": {
+      "domestic": 4700,
+      "outstate": 4700,
+      "intl": 4700
+    },
+    "fees": {
+      "domestic": 240,
+      "outstate": 240,
+      "intl": 340
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Harvard University": {
+    "currency": "USD",
+    "city": "Boston",
+    "tuition": {
+      "domestic": 4730,
+      "outstate": 4730,
+      "intl": 4730
+    },
+    "fees": {
+      "domestic": 220,
+      "outstate": 220,
+      "intl": 320
+    },
+    "housing": {
+      "oncampus": 2100
+    }
+  },
+  "Boston University": {
+    "currency": "USD",
+    "city": "Boston",
+    "tuition": {
+      "domestic": 4550,
+      "outstate": 4550,
+      "intl": 4550
+    },
+    "fees": {
+      "domestic": 160,
+      "outstate": 160,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1900
+    }
+  },
+  "Northeastern University": {
+    "currency": "USD",
+    "city": "Boston",
+    "tuition": {
+      "domestic": 4450,
+      "outstate": 4450,
+      "intl": 4450
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 240
+    },
+    "housing": {
+      "oncampus": 1850
+    }
+  },
+  "UT Austin": {
+    "currency": "USD",
+    "city": "Austin",
+    "tuition": {
+      "domestic": 875,
+      "outstate": 3125,
+      "intl": 3500
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 280
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "Texas A&M": {
+    "currency": "USD",
+    "city": "College Station",
+    "tuition": {
+      "domestic": 800,
+      "outstate": 2800,
+      "intl": 3200
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "Rice University": {
+    "currency": "USD",
+    "city": "Houston",
+    "tuition": {
+      "domestic": 4400,
+      "outstate": 4400,
+      "intl": 4400
+    },
+    "fees": {
+      "domestic": 160,
+      "outstate": 160,
+      "intl": 240
+    },
+    "housing": {
+      "oncampus": 1600
+    }
+  },
+  "University of Chicago": {
+    "currency": "USD",
+    "city": "Chicago",
+    "tuition": {
+      "domestic": 4900,
+      "outstate": 4900,
+      "intl": 4900
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 300
+    },
+    "housing": {
+      "oncampus": 1900
+    }
+  },
+  "Northwestern University": {
+    "currency": "USD",
+    "city": "Chicago",
+    "tuition": {
+      "domestic": 4850,
+      "outstate": 4850,
+      "intl": 4850
+    },
+    "fees": {
+      "domestic": 190,
+      "outstate": 190,
+      "intl": 290
+    },
+    "housing": {
+      "oncampus": 1850
+    }
+  },
+  "University of Illinois Urbana-Champaign": {
+    "currency": "USD",
+    "city": "Champaign",
+    "tuition": {
+      "domestic": 1100,
+      "outstate": 2900,
+      "intl": 3400
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Pennsylvania": {
+    "currency": "USD",
+    "city": "Philadelphia",
+    "tuition": {
+      "domestic": 4950,
+      "outstate": 4950,
+      "intl": 4950
+    },
+    "fees": {
+      "domestic": 220,
+      "outstate": 220,
+      "intl": 320
+    },
+    "housing": {
+      "oncampus": 2000
+    }
+  },
+  "Carnegie Mellon": {
+    "currency": "USD",
+    "city": "Pittsburgh",
+    "tuition": {
+      "domestic": 4750,
+      "outstate": 4750,
+      "intl": 4750
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 300
+    },
+    "housing": {
+      "oncampus": 1700
+    }
+  },
+  "Penn State": {
+    "currency": "USD",
+    "city": "State College",
+    "tuition": {
+      "domestic": 1250,
+      "outstate": 3000,
+      "intl": 3400
+    },
+    "fees": {
+      "domestic": 170,
+      "outstate": 170,
+      "intl": 250
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "Arizona State University (ASU)": {
+    "currency": "USD",
+    "city": "Tempe",
+    "tuition": {
+      "domestic": 875,
+      "outstate": 2400,
+      "intl": 2600
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 220
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Arizona": {
+    "currency": "USD",
+    "city": "Tucson",
+    "tuition": {
+      "domestic": 800,
+      "outstate": 2300,
+      "intl": 2500
+    },
+    "fees": {
+      "domestic": 140,
+      "outstate": 140,
+      "intl": 210
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "University of Florida": {
+    "currency": "USD",
+    "city": "Gainesville",
+    "tuition": {
+      "domestic": 520,
+      "outstate": 1800,
+      "intl": 2000
+    },
+    "fees": {
+      "domestic": 140,
+      "outstate": 140,
+      "intl": 220
+    },
+    "housing": {
+      "oncampus": 1100
+    }
+  },
+  "University of Miami": {
+    "currency": "USD",
+    "city": "Miami",
+    "tuition": {
+      "domestic": 4400,
+      "outstate": 4400,
+      "intl": 4400
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1800
+    }
+  },
+  "Georgia Tech": {
+    "currency": "USD",
+    "city": "Atlanta",
+    "tuition": {
+      "domestic": 850,
+      "outstate": 2700,
+      "intl": 3100
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "Emory University": {
+    "currency": "USD",
+    "city": "Atlanta",
+    "tuition": {
+      "domestic": 4600,
+      "outstate": 4600,
+      "intl": 4600
+    },
+    "fees": {
+      "domestic": 190,
+      "outstate": 190,
+      "intl": 280
+    },
+    "housing": {
+      "oncampus": 1600
+    }
+  },
+  "Duke University": {
+    "currency": "USD",
+    "city": "Durham",
+    "tuition": {
+      "domestic": 4800,
+      "outstate": 4800,
+      "intl": 4800
+    },
+    "fees": {
+      "domestic": 210,
+      "outstate": 210,
+      "intl": 310
+    },
+    "housing": {
+      "oncampus": 1700
+    }
+  },
+  "UNC Chapel Hill": {
+    "currency": "USD",
+    "city": "Chapel Hill",
+    "tuition": {
+      "domestic": 700,
+      "outstate": 2600,
+      "intl": 3000
+    },
+    "fees": {
+      "domestic": 160,
+      "outstate": 160,
+      "intl": 240
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "Johns Hopkins University": {
+    "currency": "USD",
+    "city": "Baltimore",
+    "tuition": {
+      "domestic": 4750,
+      "outstate": 4750,
+      "intl": 4750
+    },
+    "fees": {
+      "domestic": 200,
+      "outstate": 200,
+      "intl": 300
+    },
+    "housing": {
+      "oncampus": 1800
+    }
+  },
+  "Georgetown University": {
+    "currency": "USD",
+    "city": "Washington DC",
+    "tuition": {
+      "domestic": 4700,
+      "outstate": 4700,
+      "intl": 4700
+    },
+    "fees": {
+      "domestic": 190,
+      "outstate": 190,
+      "intl": 290
+    },
+    "housing": {
+      "oncampus": 1900
+    }
+  },
+  "University of Maryland": {
+    "currency": "USD",
+    "city": "College Park",
+    "tuition": {
+      "domestic": 950,
+      "outstate": 2800,
+      "intl": 3200
+    },
+    "fees": {
+      "domestic": 170,
+      "outstate": 170,
+      "intl": 250
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "University of Michigan": {
+    "currency": "USD",
+    "city": "Ann Arbor",
+    "tuition": {
+      "domestic": 1100,
+      "outstate": 3800,
+      "intl": 4200
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "University of Washington": {
+    "currency": "USD",
+    "city": "Seattle",
+    "tuition": {
+      "domestic": 1000,
+      "outstate": 3100,
+      "intl": 3600
+    },
+    "fees": {
+      "domestic": 170,
+      "outstate": 170,
+      "intl": 260
+    },
+    "housing": {
+      "oncampus": 1600
+    }
+  },
+  "University of Colorado Boulder": {
+    "currency": "USD",
+    "city": "Boulder",
+    "tuition": {
+      "domestic": 950,
+      "outstate": 2900,
+      "intl": 3300
+    },
+    "fees": {
+      "domestic": 160,
+      "outstate": 160,
+      "intl": 240
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "Ohio State University": {
+    "currency": "USD",
+    "city": "Columbus",
+    "tuition": {
+      "domestic": 900,
+      "outstate": 2500,
+      "intl": 2900
+    },
+    "fees": {
+      "domestic": 160,
+      "outstate": 160,
+      "intl": 240
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "McGill University": {
+    "currency": "CAD",
+    "city": "Montreal",
+    "tuition": {
+      "domestic": 250,
+      "outstate": 700,
+      "intl": 2800
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "Université de Montréal": {
+    "currency": "CAD",
+    "city": "Montreal",
+    "tuition": {
+      "domestic": 220,
+      "outstate": 650,
+      "intl": 2200
+    },
+    "fees": {
+      "domestic": 130,
+      "outstate": 130,
+      "intl": 180
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "Concordia University": {
+    "currency": "CAD",
+    "city": "Montreal",
+    "tuition": {
+      "domestic": 240,
+      "outstate": 680,
+      "intl": 2100
+    },
+    "fees": {
+      "domestic": 140,
+      "outstate": 140,
+      "intl": 190
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Toronto": {
+    "currency": "CAD",
+    "city": "Toronto",
+    "tuition": {
+      "domestic": 550,
+      "outstate": 550,
+      "intl": 4500
+    },
+    "fees": {
+      "domestic": 180,
+      "outstate": 180,
+      "intl": 230
+    },
+    "housing": {
+      "oncampus": 1800
+    }
+  },
+  "University of Waterloo": {
+    "currency": "CAD",
+    "city": "Waterloo",
+    "tuition": {
+      "domestic": 550,
+      "outstate": 550,
+      "intl": 3800
+    },
+    "fees": {
+      "domestic": 160,
+      "outstate": 160,
+      "intl": 210
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "Western University": {
+    "currency": "CAD",
+    "city": "London",
+    "tuition": {
+      "domestic": 500,
+      "outstate": 500,
+      "intl": 3200
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "Queens University": {
+    "currency": "CAD",
+    "city": "Kingston",
+    "tuition": {
+      "domestic": 520,
+      "outstate": 520,
+      "intl": 3400
+    },
+    "fees": {
+      "domestic": 155,
+      "outstate": 155,
+      "intl": 205
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "McMaster University": {
+    "currency": "CAD",
+    "city": "Hamilton",
+    "tuition": {
+      "domestic": 490,
+      "outstate": 490,
+      "intl": 3000
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "UBC": {
+    "currency": "CAD",
+    "city": "Vancouver",
+    "tuition": {
+      "domestic": 550,
+      "outstate": 550,
+      "intl": 4200
+    },
+    "fees": {
+      "domestic": 170,
+      "outstate": 170,
+      "intl": 230
+    },
+    "housing": {
+      "oncampus": 1700
+    }
+  },
+  "SFU": {
+    "currency": "CAD",
+    "city": "Vancouver",
+    "tuition": {
+      "domestic": 480,
+      "outstate": 480,
+      "intl": 3200
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "University of Alberta": {
+    "currency": "CAD",
+    "city": "Edmonton",
+    "tuition": {
+      "domestic": 480,
+      "outstate": 480,
+      "intl": 3000
+    },
+    "fees": {
+      "domestic": 150,
+      "outstate": 150,
+      "intl": 200
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Calgary": {
+    "currency": "CAD",
+    "city": "Calgary",
+    "tuition": {
+      "domestic": 470,
+      "outstate": 470,
+      "intl": 2900
+    },
+    "fees": {
+      "domestic": 145,
+      "outstate": 145,
+      "intl": 195
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Oxford": {
+    "currency": "GBP",
+    "city": "Oxford",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2900
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 120
+    },
+    "housing": {
+      "oncampus": 1200
+    }
+  },
+  "University of Cambridge": {
+    "currency": "GBP",
+    "city": "Cambridge",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2800
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 110
+    },
+    "housing": {
+      "oncampus": 1100
+    }
+  },
+  "Imperial College London": {
+    "currency": "GBP",
+    "city": "London",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 3300
+    },
+    "fees": {
+      "domestic": 60,
+      "outstate": 60,
+      "intl": 130
+    },
+    "housing": {
+      "oncampus": 1600
+    }
+  },
+  "UCL": {
+    "currency": "GBP",
+    "city": "London",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2900
+    },
+    "fees": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 120
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "LSE": {
+    "currency": "GBP",
+    "city": "London",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2600
+    },
+    "fees": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 120
+    },
+    "housing": {
+      "oncampus": 1500
+    }
+  },
+  "Kings College London": {
+    "currency": "GBP",
+    "city": "London",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2500
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 110
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "University of Manchester": {
+    "currency": "GBP",
+    "city": "Manchester",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2300
+    },
+    "fees": {
+      "domestic": 45,
+      "outstate": 45,
+      "intl": 100
+    },
+    "housing": {
+      "oncampus": 900
+    }
+  },
+  "University of Edinburgh": {
+    "currency": "GBP",
+    "city": "Edinburgh",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2200
+    },
+    "fees": {
+      "domestic": 45,
+      "outstate": 45,
+      "intl": 100
+    },
+    "housing": {
+      "oncampus": 950
+    }
+  },
+  "University of Glasgow": {
+    "currency": "GBP",
+    "city": "Glasgow",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 1900
+    },
+    "fees": {
+      "domestic": 40,
+      "outstate": 40,
+      "intl": 90
+    },
+    "housing": {
+      "oncampus": 850
+    }
+  },
+  "University of St Andrews": {
+    "currency": "GBP",
+    "city": "St Andrews",
+    "tuition": {
+      "domestic": 771,
+      "outstate": 771,
+      "intl": 2000
+    },
+    "fees": {
+      "domestic": 40,
+      "outstate": 40,
+      "intl": 90
+    },
+    "housing": {
+      "oncampus": 950
+    }
+  },
+  "Sorbonne Université": {
+    "currency": "EUR",
+    "city": "Paris",
+    "tuition": {
+      "domestic": 33,
+      "outstate": 33,
+      "intl": 230
+    },
+    "fees": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 650
+    }
+  },
+  "Paris-Saclay": {
+    "currency": "EUR",
+    "city": "Paris",
+    "tuition": {
+      "domestic": 33,
+      "outstate": 33,
+      "intl": 230
+    },
+    "fees": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 600
+    }
+  },
+  "Sciences Po Paris": {
+    "currency": "EUR",
+    "city": "Paris",
+    "tuition": {
+      "domestic": 500,
+      "outstate": 500,
+      "intl": 1200
+    },
+    "fees": {
+      "domestic": 40,
+      "outstate": 40,
+      "intl": 60
+    },
+    "housing": {
+      "oncampus": 750
+    }
+  },
+  "École Polytechnique": {
+    "currency": "EUR",
+    "city": "Paris",
+    "tuition": {
+      "domestic": 40,
+      "outstate": 40,
+      "intl": 1200
+    },
+    "fees": {
+      "domestic": 35,
+      "outstate": 35,
+      "intl": 55
+    },
+    "housing": {
+      "oncampus": 500
+    }
+  },
+  "HEC Paris": {
+    "currency": "EUR",
+    "city": "Paris",
+    "tuition": {
+      "domestic": 2500,
+      "outstate": 2500,
+      "intl": 3500
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 80
+    },
+    "housing": {
+      "oncampus": 800
+    }
+  },
+  "Université Claude Bernard Lyon 1": {
+    "currency": "EUR",
+    "city": "Lyon",
+    "tuition": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 230
+    },
+    "fees": {
+      "domestic": 28,
+      "outstate": 28,
+      "intl": 45
+    },
+    "housing": {
+      "oncampus": 500
+    }
+  },
+  "Aix-Marseille Université": {
+    "currency": "EUR",
+    "city": "Marseille",
+    "tuition": {
+      "domestic": 28,
+      "outstate": 28,
+      "intl": 230
+    },
+    "fees": {
+      "domestic": 28,
+      "outstate": 28,
+      "intl": 45
+    },
+    "housing": {
+      "oncampus": 480
+    }
+  },
+  "TU Munich": {
+    "currency": "EUR",
+    "city": "Munich",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 290
+    },
+    "fees": {
+      "domestic": 60,
+      "outstate": 60,
+      "intl": 60
+    },
+    "housing": {
+      "oncampus": 600
+    }
+  },
+  "LMU Munich": {
+    "currency": "EUR",
+    "city": "Munich",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 55
+    },
+    "housing": {
+      "oncampus": 550
+    }
+  },
+  "Heidelberg University": {
+    "currency": "EUR",
+    "city": "Heidelberg",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 450
+    }
+  },
+  "KIT Karlsruhe": {
+    "currency": "EUR",
+    "city": "Karlsruhe",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 430
+    }
+  },
+  "Humboldt University": {
+    "currency": "EUR",
+    "city": "Berlin",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 55
+    },
+    "housing": {
+      "oncampus": 500
+    }
+  },
+  "TU Berlin": {
+    "currency": "EUR",
+    "city": "Berlin",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 55
+    },
+    "housing": {
+      "oncampus": 500
+    }
+  },
+  "RWTH Aachen": {
+    "currency": "EUR",
+    "city": "Aachen",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 50,
+      "outstate": 50,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 400
+    }
+  },
+  "Goethe University Frankfurt": {
+    "currency": "EUR",
+    "city": "Frankfurt",
+    "tuition": {
+      "domestic": 0,
+      "outstate": 0,
+      "intl": 0
+    },
+    "fees": {
+      "domestic": 55,
+      "outstate": 55,
+      "intl": 55
+    },
+    "housing": {
+      "oncampus": 480
+    }
+  },
+  "University of Sydney": {
+    "currency": "AUD",
+    "city": "Sydney",
+    "tuition": {
+      "domestic": 900,
+      "outstate": 900,
+      "intl": 3500
+    },
+    "fees": {
+      "domestic": 80,
+      "outstate": 80,
+      "intl": 160
+    },
+    "housing": {
+      "oncampus": 1800
+    }
+  },
+  "UNSW Sydney": {
+    "currency": "AUD",
+    "city": "Sydney",
+    "tuition": {
+      "domestic": 900,
+      "outstate": 900,
+      "intl": 3400
+    },
+    "fees": {
+      "domestic": 75,
+      "outstate": 75,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 1700
+    }
+  },
+  "University of Melbourne": {
+    "currency": "AUD",
+    "city": "Melbourne",
+    "tuition": {
+      "domestic": 850,
+      "outstate": 850,
+      "intl": 3600
+    },
+    "fees": {
+      "domestic": 80,
+      "outstate": 80,
+      "intl": 160
+    },
+    "housing": {
+      "oncampus": 1700
+    }
+  },
+  "Monash University": {
+    "currency": "AUD",
+    "city": "Melbourne",
+    "tuition": {
+      "domestic": 800,
+      "outstate": 800,
+      "intl": 3200
+    },
+    "fees": {
+      "domestic": 75,
+      "outstate": 75,
+      "intl": 150
+    },
+    "housing": {
+      "oncampus": 1600
+    }
+  },
+  "University of Queensland": {
+    "currency": "AUD",
+    "city": "Brisbane",
+    "tuition": {
+      "domestic": 800,
+      "outstate": 800,
+      "intl": 3100
+    },
+    "fees": {
+      "domestic": 70,
+      "outstate": 70,
+      "intl": 145
+    },
+    "housing": {
+      "oncampus": 1400
+    }
+  },
+  "University of Western Australia": {
+    "currency": "AUD",
+    "city": "Perth",
+    "tuition": {
+      "domestic": 780,
+      "outstate": 780,
+      "intl": 3000
+    },
+    "fees": {
+      "domestic": 70,
+      "outstate": 70,
+      "intl": 140
+    },
+    "housing": {
+      "oncampus": 1300
+    }
+  },
+  "University of Amsterdam": {
+    "currency": "EUR",
+    "city": "Amsterdam",
+    "tuition": {
+      "domestic": 185,
+      "outstate": 185,
+      "intl": 1200
+    },
+    "fees": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 700
+    }
+  },
+  "Delft University of Technology": {
+    "currency": "EUR",
+    "city": "Delft",
+    "tuition": {
+      "domestic": 185,
+      "outstate": 185,
+      "intl": 1500
+    },
+    "fees": {
+      "domestic": 30,
+      "outstate": 30,
+      "intl": 50
+    },
+    "housing": {
+      "oncampus": 600
+    }
+  },
+  "Leiden University": {
+    "currency": "EUR",
+    "city": "Leiden",
+    "tuition": {
+      "domestic": 185,
+      "outstate": 185,
+      "intl": 1100
+    },
+    "fees": {
+      "domestic": 28,
+      "outstate": 28,
+      "intl": 48
+    },
+    "housing": {
+      "oncampus": 580
+    }
+  },
+  "Utrecht University": {
+    "currency": "EUR",
+    "city": "Utrecht",
+    "tuition": {
+      "domestic": 185,
+      "outstate": 185,
+      "intl": 1000
+    },
+    "fees": {
+      "domestic": 28,
+      "outstate": 28,
+      "intl": 48
+    },
+    "housing": {
+      "oncampus": 570
+    }
+  },
+  "Erasmus University Rotterdam": {
+    "currency": "EUR",
+    "city": "Rotterdam",
+    "tuition": {
+      "domestic": 185,
+      "outstate": 185,
+      "intl": 1100
+    },
+    "fees": {
+      "domestic": 28,
+      "outstate": 28,
+      "intl": 48
+    },
+    "housing": {
+      "oncampus": 580
+    }
+  }
+}
